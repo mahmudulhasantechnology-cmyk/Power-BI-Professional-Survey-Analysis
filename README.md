@@ -87,7 +87,8 @@ It demonstrates the full data analytics workflow — from <b>raw data ingestion<
 
 <h2>📸 Dashboard Preview</h2>
 <p align="center">
-  <img src="(Add your dashboard screenshot here)" width="80%">
+  <img src="https://github.com/mahmudulhasantechnology-cmyk/Power-BI-Professional-Survey-Analysis/blob/8b872f3ec486a9489915ba92caf91ad8d8b0d263/Before.png" width="80%">
+  <img src="https://github.com/mahmudulhasantechnology-cmyk/Power-BI-Professional-Survey-Analysis/blob/8b872f3ec486a9489915ba92caf91ad8d8b0d263/After.png" width="80%">
 </p>
 
 <hr>
